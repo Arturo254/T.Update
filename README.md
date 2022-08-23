@@ -9,4 +9,4 @@ cd T.Update
 
 chmod 777 * ; chmod +x * 
 
-bash T.Update.sh
+bash tUpdate.sh
