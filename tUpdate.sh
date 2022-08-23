@@ -6,6 +6,8 @@ cd /data/data/com.termux/files/home/T.Update
 
 lolcat box.cow
 
+sleep 3 
+
 pkg update -y
 pkg upgrade -y
 
